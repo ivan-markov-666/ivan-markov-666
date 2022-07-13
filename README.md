@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivan-markov-666
+- 👋 Hi, I’m Ivan Markov.
 - 👀 I’m interested in almost everything in the IT area.
-- 🌱 I’m currently learning React
-- 📫 How to reach me: https://www.linkedin.com/in/ivanmarkov/
+- 🌱 I’m currently learning React.
+- 📫 How to reach me: https://www.linkedin.com/in/ivanmarkov/ .
