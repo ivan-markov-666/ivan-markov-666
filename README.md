@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ivan Markov.
 - 👀 I’m interested in almost everything in the IT area.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning NestJS and MongoDB.
 - 📫 How to reach me: https://www.linkedin.com/in/ivanmarkov/ .
